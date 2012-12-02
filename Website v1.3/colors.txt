@@ -1,0 +1,23 @@
+Colors:
+
+142 179 231
+223 237 254
+243 244 250
+124 124 148
+
+8E B3 E7
+DF ED FE
+F3 F4 FA
+7C 7C 94
+
+#8EB3E7
+#DFEDFE
+#F3F4FA
+#7C7C94
+
+OraNGE:  #255 128 64  -or- #FF8040
+
+Palette Orange:  #FF7910
+
+Raymond:
+foxbro@cravinmorespeed.com

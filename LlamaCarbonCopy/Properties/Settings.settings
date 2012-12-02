@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LlamaCarbonCopy.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Website" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://llamacarboncopy.com</Value>
+    </Setting>
+    <Setting Name="SalesWebsite" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://llamacarboncopy.com/purchase.html</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

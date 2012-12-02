@@ -1,0 +1,238 @@
+/*Style sheet for NoProbs must be included to with HTML.*/
+/*Styles for body.*/
+body
+{
+	margin: 0 auto;
+	padding: 0;	
+	font: 76% Verdana, Helvetica, Tahoma, Arial, sans-serif;
+	background: #F3F4FA;/*#f4f4f4 url(background.gif) top center repeat-y;*/
+	color: BLACK;/*#494949;*/	
+}
+
+.bullet {
+	list-style-image: url(img/bullet.png);	
+	padding: 2px 0px 2px 0px;	
+	}
+
+
+/*Styles for main content which will be wrapped to centere. */
+#MainWrapper
+{
+	background: #ffffff;
+	color: #303030;
+	margin: 0 auto;
+	width: 800px;
+	
+}
+
+/*Styles for the main header at the top. */
+#Header
+{
+	color:#ffffff;
+	padding-top:12px;
+	padding-bottom:12px;
+	padding-left:20px;
+	background-color: #8EB3E7;/*#79A3C1;*/
+}
+#Header a
+{
+	font-weight:normal;
+	font-size:27px;
+	text-decoration:none;
+	background-color: #8EB3E7;/*#79A3C1;*/
+	color:#ffffff;
+}
+
+/*Styles for the main header menus. */
+#HeaderMenus
+{
+	color:#000000;
+	height:1.5em;
+	line-height:1.5em;
+	padding-left:11px;
+	margin:0 0 10px 0;
+	background-color: #DFEDFE;/*#dcdcdc;*/
+	border-bottom:solid 2px #7C7C94;/*#a9a9a9;*/
+}
+#HeaderMenus ul
+{
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
+}
+#HeaderMenus li
+{
+	float:left;
+	list-style-type:none;	
+	
+}
+#HeaderMenus li a
+{
+	display:block;
+	padding: 0px 10px;
+	font-size: 1.1em;
+	font-family: Verdana, Helvetica, serif, sans-serif, Arial, ;
+	text-decoration:none;
+	background-color:inherit;
+	color:#000000;
+}
+#HeaderMenus .selected
+{
+	color: #336699;
+	text-decoration: none;	
+	background-color:inherit;
+}
+#HeaderMenus a:hover
+{
+	background-color:inherit;
+	color: #8EB3E7;/*#336699;*/
+	text-decoration: none;
+}
+
+#Content
+{
+	/*display: inline-block;*/
+	vertical-align: top;
+	width: 800px;	
+	}
+
+/*Styles for the contens that are displayes in side column. */
+#SideContents
+{
+	
+	width:170px;
+	color: #333300;
+	padding:0 6px 0 7px;
+	line-height:1.4em;
+	background-color:#ffffff;
+	
+}
+#SideContents h3
+{
+	color: #7C7C94;/*#4D6E8F;*/
+	font-size: 1.3em;
+	font-family: helvetica;
+	margin: 0 auto;
+	padding: 0 0 8px 0;
+	background-color:inherit;
+}
+#SideContents p
+{
+	font-size: 90%;
+	text-align: justify;
+	background-color:inherit;
+	color: #333300;
+	margin: 0 0 12px 0;
+}
+#SideContents a
+{
+	text-decoration: UNDERLINE;/*none;*/
+	background-color:inherit;
+	color: #FF7910;/*#660000;*/
+}
+
+#SideContentCell 
+{
+	vertical-align:top;
+	width: 180px;	
+}
+
+#MainContentCell
+{
+	vertical-align:top;
+	border-right: 1px solid #DDD;
+	width: 580px
+	}
+
+
+/*Styles for the main contets in the page. */
+#MainContent
+{
+	justify: left;
+	height: 100%;
+	width: 580px;
+	margin: 0 0/*186*/px 18px 10px;
+	padding: 0 12px 0 10px;
+/*	border-right: 1px solid #DDD;*/
+	line-height: 1.6em;
+}
+#MainContent h2
+{
+	color:#7C7C94;/*#000000;*/
+	font-size: 1.5em;
+	font-family: helvetica;
+	margin: 0 0 0.5em 0;
+	background-color:inherit;
+	text-align: left;
+}
+#MainContent h2 a
+{
+	text-decoration: none;
+	color: #7C7C94;
+}
+#MainContent p
+{
+	color: #000000;/*#494949;*/
+	text-align: justify;
+	background-color:inherit;	
+	/*line-height: 2em;*/
+}
+
+#MainContent a
+{
+	text-decoration: UNDERLINE;
+	background-color:inherit;
+	color: #FF7910;/*#000066;*/
+}
+#MainContent img 
+{
+	display:inline;
+	color: inherit;
+	background-color:inherit;
+	/*border: 2px solid #DFEDFE/*#79A3C1;*/
+	border: none;
+}
+
+/*Styles for the page footer. */
+#Footer 
+{	
+	margin: 0 auto;
+	padding: 8px 0 2px 0;
+	border-top: 1px solid #ddd;
+	/*width: 760px;*/
+	width: 800px;
+	text-align: center;
+	font-size: 0.9em;
+	line-height: 1.6em;
+
+}
+#Footer a 
+{
+	color: #FF7910;
+	background-color: inherit;
+	text-decoration: none;
+}
+#Footer a:hover 
+{
+	text-decoration: underline;
+}
+
+/*Styles for other classes. */
+.AlignLeft
+{
+	margin: 10px 10px 5px 0;
+	float: left;
+	border: none;
+}
+.AlignRight
+{
+	margin: 10px 0 0 10px;
+	float: right;
+	border: none;
+}
+
+.EightyPercent 
+{
+	width: 80%;
+	height: 80%;
+	}
+	

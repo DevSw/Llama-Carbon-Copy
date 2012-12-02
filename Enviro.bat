@@ -1,0 +1,6 @@
+explorer.exe "C:\Documents and Settings\User\My Documents\WorkSpace\SpittingImage\DictoPhone_testArea\InBound\Test\"
+explorer.exe "C:\Documents and Settings\User\My Documents\WorkSpace\SpittingImage\DictoPhone_testArea\OutBound\Test\"
+explorer.exe "C:\Documents and Settings\User\My Documents\WorkSpace\SpittingImage\Tester\CopyMercTester\CMTester\bin\Debug\"
+explorer.exe "C:\Documents and Settings\User\My Documents\WorkSpace\SpittingImage\DictoMerc\bin\Debug\"
+"c:\program files\crimson editor\cedt.exe"
+"C:\Program Files\Microsoft Visual Studio .NET 2003\Common7\IDE\devenv.exe" "c:\documents and settings\user\my documents\workspace\spittingimage\spittingimage.sln"

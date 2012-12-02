@@ -1,0 +1,4 @@
+94 133 143  : Light Bluish color
+0 0 0
+255 255 255
+255 102 0   : Intense Orange
